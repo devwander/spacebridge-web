@@ -7,15 +7,11 @@ import Packages from "./components/packages";
 
 const Container = styled.div`
   height: 100vh;
-  // scroll-snap-type: y mandatory;
   scroll-behavior: smooth;
   overflow-y: auto;
-  // scrollbar-width: none;
   color: white;
-  background: url("/public/static/background.jpeg");
-  // &::-webkit-scrollbar {
-  //   display: none;
-  // }
+  background: url("src/assets/static/background.jpeg") no-repeat center
+    center/cover;
 `;
 
 function App() {

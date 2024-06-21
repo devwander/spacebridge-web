@@ -32,7 +32,7 @@ export const PackageSection = styled.section`
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url("/public/static/wavey-fingerprint.svg");
+  background: url("src/assets/static/wavey-fingerprint.svg");
 
   @media (max-width: 768px) {
     padding: 20px 0;
