@@ -15,7 +15,7 @@ const Navbar = () => {
     <Section>
       <Container>
         <Links>
-          <Logo src="src/assets/static/logo.png" />
+          <Logo src="./static/logo.png" />
           <List>
             <ListItem>
               <Link href="#home">Início</Link>

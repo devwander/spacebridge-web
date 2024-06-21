@@ -10,8 +10,7 @@ const Container = styled.div`
   scroll-behavior: smooth;
   overflow-y: auto;
   color: white;
-  background: url("src/assets/static/background.jpeg") no-repeat center
-    center/cover;
+  background: url("./static/background.jpeg") no-repeat center center/cover;
 `;
 
 function App() {

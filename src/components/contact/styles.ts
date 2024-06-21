@@ -86,7 +86,7 @@ export const Right = styled.div`
 export const ContactImage = styled.div`
   width: 100%;
   height: 100vh;
-  background: url("src/assets/static/mars.jpg") no-repeat center center/cover;
+  background: url("./static/mars.jpg") no-repeat center center/cover;
   position: relative;
   border-radius: 10px;
 

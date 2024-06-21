@@ -22,7 +22,7 @@ const Hero = () => {
         <Left>
           <Title>Explore. Descubra. Experimente.</Title>
           <WhatWeDo>
-            <Line src="src/assets/static/line.png" />
+            <Line src="./static/line.png" />
             <Subtitle>Nossos Serviços</Subtitle>
           </WhatWeDo>
           <Desc>
@@ -44,7 +44,7 @@ const Hero = () => {
               />
             </Sphere>
           </Canvas>
-          <Img src="src/assets/static/earth.png" />
+          <Img src="./static/earth.png" />
         </Right>
       </Container>
     </Section>
